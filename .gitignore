@@ -1,0 +1,17 @@
+.DS_Store
+
+*.dylib
+*.pyc
+*.o
+*.so
+*.swp
+*.swo
+
+/build
+/node_modules
+/lib/node/binding
+/lib/node/index.js
+
+/dist
+**/snowboy.egg-info
+/.idea

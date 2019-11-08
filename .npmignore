@@ -1,0 +1,13 @@
+.DS_Store
+
+*.pyc
+*.o
+*.so
+
+/build
+/node_modules
+
+/lib/node/*.ts
+
+.npmignore
+.travis.yml
